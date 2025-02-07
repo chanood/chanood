@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1&pause=1000&color=F7C313&center=true&vCenter=true&repeat=false&width=435&lines=Chanoot+Trongjit" alt="Chanoot trongjit" /></a>
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7C313&center=true&vCenter=true&width=500&lines=Don't+have+anything+to+write+yet;just+want+to+be+cool" alt="Typing SVG" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+
+  </p>
+
 ### 🖱️ Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />

@@ -2,14 +2,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=1&pause=1000&color=0F2573&width=435&lines=chanoot+trongjit" alt="Chanoot trongjit" /></a>
 </p>
 
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7C313&center=true&vCenter=true&width=500&lines=Don't+have+anything+to+write+yet;just+want+to+be+cool" alt="Typing SVG" /></a>
-</p>
-
 <!-- Social icons section -->
 <p align="center">
-
+     <a href="www.linkedin.com/in/chanoot-t"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/86LD7ykb"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
   </p>
 
 ### 🖱️ Languages and Tools

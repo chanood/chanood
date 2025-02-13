@@ -4,7 +4,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-     <a href="www.linkedin.com/in/chanoot-t"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/86LD7ykb"/></a>
+     <a href="www.linkedin.com/in/chanoot-t"><img width="32px" alt="LinkedIn" title="Youtube" src="https://imgur.com/86LD7ykb"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
   </p>

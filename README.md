@@ -9,7 +9,7 @@ I really passionate in coding
 
 <!-- Social icons section -->
 <p align="center">
-     <a href="www.linkedin.com/in/chanoot-t"><img width="32px" alt="LinkedIn" title="Youtube" src="https://imgur.com/86LD7ykb"/></a>
+     <a href="www.linkedin.com/in/chanoot-t"><img width="32px" alt="LinkedIn" title="Youtube" src="[https://imgur.com/86LD7ykb](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
   </p>
